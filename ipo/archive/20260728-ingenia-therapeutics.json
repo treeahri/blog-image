@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "ready",
   "postType": "subscription",
-  "generatedAt": "2026-07-29T00:20:00+09:00",
+  "generatedAt": "2026-07-29T01:10:00+09:00",
   "generatedBy": "manual-skill",
   "slug": "ingenia-therapeutics",
   "statusMessage": "",
@@ -20,7 +20,7 @@
   "cards": {
     "cover": {
       "badge": "공모주 청약",
-      "ddayLine": "청약 D-2 · 7월 30일(목) 시작",
+      "ddayLine": "7월 30일(목) 청약 시작",
       "hook": "머크가 임상을 이어받은 신약 기업,\n확정 공모가는 밴드 하단 12,000원",
       "marketLine": "코스닥 · 항체 신약(망막·신장) · 기술특례 KDR"
     },
