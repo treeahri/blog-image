@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "status": "ready",
+  "generatedAt": "2026-07-17T23:50:00+09:00",
+  "generatedBy": "manual-skill",
+  "slug": "summer-travel-saving",
+  "statusMessage": "",
+  "meta": {
+    "category": "생활",
+    "topic": "여름휴가 짠테크"
+  },
+  "slides": [
+    {
+      "id": "cover-1",
+      "type": "cover",
+      "badge": "daReviewDa",
+      "title": "여름휴가\n짠테크",
+      "subtitle": "환전 수수료 아끼는 법만 알아도\n여행 경비가 확 줄어요"
+    },
+    {
+      "id": "quote-1",
+      "type": "quote",
+      "title": "이것만 지켜도 환전비 아낀다",
+      "highlight": "공항 환전소는 피하세요",
+      "body": "공항 환전소는 시내 은행이나 앱보다 환율 우대율이 낮아, 같은 돈으로 바꿔도 실제 받는 외화가 더 적어요. 출국 전 미리 준비하는 게 핵심이에요."
+    },
+    {
+      "id": "imageText-1",
+      "type": "imageText",
+      "title": "카카오페이 해외 QR결제",
+      "imageDataUrl": "",
+      "caption": "환전 없이 원화 그대로 결제",
+      "body": "카카오페이는 알리페이플러스(Alipay+) 제휴로 중국 등 일부 국가 가맹점에서 QR 결제를 지원해요. 별도의 해외 이용 수수료 없이 자체 환율이 적용되지만, 제휴 환율에는 약간의 마진이 포함돼 있어 \"완전 무료\"는 아니라는 점은 참고하세요. 지원 국가·가맹점은 계속 늘고 있으니 출국 전 카카오페이 앱에서 해외결제 가능 여부를 먼저 확인해보세요."
+    },
+    {
+      "id": "imageCompare-1",
+      "type": "imageCompare",
+      "title": "간편결제 vs 트래블카드",
+      "left": {
+        "imageDataUrl": "",
+        "label": "카카오페이 QR결제",
+        "body": "환전 없이 앱으로 바로 결제. 다만 QR 결제를 지원하는 가맹점·국가가 아직 제한적이에요."
+      },
+      "right": {
+        "imageDataUrl": "",
+        "label": "트래블카드(트래블로그 등)",
+        "body": "환전수수료 0원 + 해외 ATM 인출도 무료. QR 결제가 안 되는 곳에서도 카드·현금 인출로 커버돼요."
+      }
+    },
+    {
+      "id": "checklist-1",
+      "type": "checklist",
+      "title": "여름휴가 짠테크 체크리스트",
+      "items": [
+        "공항 환전소 대신 트래블카드로 미리 환전해두기",
+        "카카오페이 앱에서 해외결제(QR) 지원 여부 미리 확인하기",
+        "환전은 필요한 만큼만, 현금은 최소로만 들고 가기",
+        "해외 결제 시 원화 결제(DCC) 대신 현지 통화 결제 선택하기",
+        "귀국 후 남은 외화는 재환전 수수료 없는 카드로 다시 원화 전환하기"
+      ]
+    },
+    {
+      "id": "outro-1",
+      "type": "outro",
+      "title": "행복한 여행 되세요! ✈️",
+      "message": "다음엔 여행 중 자주 하는 실수 모음으로 찾아올게요.\n도움 되셨다면 이웃추가 해주세요 :)"
+    }
+  ],
+  "body": {
+    "postTitle": "여름휴가 짠테크, 환전 수수료 0원으로 다녀오는 법",
+    "greeting": "안녕하세요, 다리뷰다입니다.",
+    "intro": "여름휴가철엔 항공권·숙소만큼이나 신경 쓰이는 게 환전이죠. 조금만 준비하면 환전 수수료를 확 줄일 수 있어요, 오늘은 그 방법을 정리해봤어요.",
+    "closing": "다음엔 여행 중 자주 하는 실수 모음으로 찾아올게요. 도움 되셨다면 이웃추가 부탁드려요!",
+    "disclaimer": "결제 수단별 혜택·수수료는 서비스·카드사 정책에 따라 달라질 수 있어요. 출국 전 각 서비스의 최신 공지를 꼭 확인하세요.",
+    "hashtags": "여름휴가,짠테크,환전수수료,카카오페이,트래블카드,해외여행팁"
+  },
+  "sources": [
+    { "name": "카카오페이 고객센터 - 해외결제 안내", "url": "https://support.kakaopay.com/web/faq-list/CUSTOMER_CENTER_FAQ_PAYMENT?qna=CUSTOMER_CENTER_FAQ_OVERSEAS_PAYMENT" },
+    { "name": "카드고릴라 - 트래블카드 환전수수료 비교(2026)", "url": "https://m.card-gorilla.com/contents/detail/2867" }
+  ],
+  "notes": [
+    "카카오페이 해외 QR결제의 지원 국가·가맹점 범위와 알리페이플러스 환율 마진 폭은 시점에 따라 달라질 수 있어, 발행 전 카카오페이 앱 공지로 재확인 권장.",
+    "imageText/imageCompare 슬라이드의 imageDataUrl은 비워둠 — 앱의 핫이슈 모드에서 실제 사진을 직접 첨부해야 함."
+  ]
+}
